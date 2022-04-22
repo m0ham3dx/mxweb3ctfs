@@ -19,4 +19,5 @@ N | CTF | Cheats | Writeup
 1 | [Capture The Ether](https://capturetheether.com/) |  [blocksec-ctfs list](https://github.com/blockthreat/blocksec-ctfs)
 2 | [Ethernaut](https://ethernaut.openzeppelin.com/) |[blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) , [Smart Contract Security Fundamentals- OpenZepplins Ethernaut Challenges - Youtube](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G)
 3 | [Damn Vulnerable Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) | [Damian Rusinek - (@drdr_zz)](https://github.com/damianrusinek/damn-vulnerable-defi)
-4 | [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022 Undergoing Revamp - Currently not playable, [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) | [Paradigm CTF 2021 Solutions by cmichel](https://cmichel.io/paradigm-ctf-2021-solutions/) | 
+4 | [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022 Undergoing Revamp - Currently not playable, [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) | [Paradigm CTF 2021 Solutions by cmichel](https://cmichel.io/paradigm-ctf-2021-solutions/) |
+5 | [Damn Vulnerable Def- Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) | 
