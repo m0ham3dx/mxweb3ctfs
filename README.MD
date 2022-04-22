@@ -21,3 +21,7 @@ N | CTF | Cheats | Writeup
 3 | [Damn Vulnerable Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) | [Damian Rusinek - (@drdr_zz)](https://github.com/damianrusinek/damn-vulnerable-defi)
 4 | [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022 Undergoing Revamp - Currently not playable, [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) | [Paradigm CTF 2021 Solutions by cmichel](https://cmichel.io/paradigm-ctf-2021-solutions/) |
 5 | [Damn Vulnerable Defi- Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) | Scattered - [JOP](https://plotchy.substack.com/p/solving-paradigmctfs-jop-?s=r)
+6 | [DeFi Hack](https://www.defihack.xyz/) - fork of Ethernaut
+
+
+Ctfs listed [HERE](https://www.w3bs3c.com/ctfs)
