@@ -24,4 +24,4 @@ N | CTF | Cheats | Writeup
 6 | [DeFi Hack](https://www.defihack.xyz/) - fork of Ethernaut
 
 
-Ctfs listed [HERE](https://www.w3bs3c.com/ctfs)
+Reference resource for CTFS - [w3bs3c.com/ctfs](https://www.w3bs3c.com/ctfs)
