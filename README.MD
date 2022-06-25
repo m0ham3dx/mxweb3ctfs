@@ -14,6 +14,19 @@ This repo will contain reports on CTF attempts
 
 # CTFS
 
+```mermaid
+flowchart TD
+    A[CTFS] --> B1(Capture\nThe\nEther)
+    A --> B2(Ethernaut)
+    A --> B3(Damn\nVulernable\nDefi)
+    A --> B4(Paradigm\nCTF)
+    A --> B5(Defi\nHack)
+
+    %% This is for B3
+    B3 --> B31(Foundry\nVersion)
+
+```
+
 | N   |                                                                                       CTF                                                                                       |                                                                                                            Cheats                                                                                                             |   Solutions   | Status |
 | :-- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | -----: |
 | 1   |                                                                [Capture The Ether](https://capturetheether.com/)                                                                |                                                                              [blocksec-ctfs list](https://github.com/blockthreat/blocksec-ctfs)                                                                               |
@@ -23,6 +36,4 @@ This repo will contain reports on CTF attempts
 | 5   |                                    [Damn Vulnerable Defi- Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)                                    |                                                                        Scattered - [JOP](https://plotchy.substack.com/p/solving-paradigmctfs-jop-?s=r)                                                                        | [🔑](./sols/) |
 | 6   |                                                           [DeFi Hack](https://www.defihack.xyz/) - fork of Ethernaut                                                            |
 
-Reference resource for CTFS - [w3bs3c.com/ctfs](https://www.w3bs3c.com/ctfs)
-
-.
+> Reference resource for CTFS - [w3bs3c.com/ctfs](https://www.w3bs3c.com/ctfs)
