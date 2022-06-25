@@ -1,10 +1,8 @@
 <p align="center">
-    <a href="https://www.twitter.com/m0ham3dxx" target="_blank">
-        <img src="./dvdf.png" alt="m0ham3dx" width="200"/> 
+    <a href="https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry" target="_blank">
+        <img src="./img/dvdf.png" alt="m0ham3dx" width="400"/> 
     </a>
 </p>
-
-<img src="./sols/DVDFV/img/dvdf.png">
 
 # Damn Vulnerable Defi - Foundry Edition
 
