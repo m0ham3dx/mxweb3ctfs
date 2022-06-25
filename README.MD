@@ -25,6 +25,12 @@ flowchart TD
     %% This is for B3
     B3 --> B31(Foundry\nVersion)
 
+    %% Code for the links
+    click A "https://www.w3bs3c.com/ctfs" "Web 3 Sec - CTFS" _blank
+    clicl B1 "https://capturetheether.com/" "Capture the ether" _blank
+    click B2 "https://ethernaut.openzeppelin.com" "Open Zepplin Ethernaut" _blank
+    click B3 "https://github.com/tinchoabbate/damn-vulnerable-defi" "Daman Vulnerable Defi - Classic" _blank
+
 ```
 
 | N   |                                                                                       CTF                                                                                       |                                                                                                            Cheats                                                                                                             |   Solutions   | Status |
