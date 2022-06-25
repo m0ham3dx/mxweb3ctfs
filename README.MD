@@ -27,10 +27,12 @@ flowchart TD
 
     %% Code for the links
     click A "https://www.w3bs3c.com/ctfs" "Web 3 Sec - CTFS" _blank
-    clicl B1 "https://capturetheether.com/" "Capture the ether" _blank
+    click B1 "https://capturetheether.com/" "Capture the ether" _blank
     click B2 "https://ethernaut.openzeppelin.com" "Open Zepplin Ethernaut" _blank
-    click B3 "https://github.com/tinchoabbate/damn-vulnerable-defi" "Daman Vulnerable Defi - Classic" _blank
-
+    click B3 "https://github.com/tinchoabbate/damn-vulnerable-defi" "Damn Vulnerable Defi - Classic" _blank
+    click B31 "https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry" "Damn Vulnerable Defi - Foundry Version" _blank
+    click B4 "https://ctf.paradigm.xyz/" "Paradigm CTF 2021" _blank
+    click B5 "https://www.defihack.xyz/" "Defi Hack" _blank
 ```
 
 | N   |                                                                                       CTF                                                                                       |                                                                                                            Cheats                                                                                                             |   Solutions   | Status |
