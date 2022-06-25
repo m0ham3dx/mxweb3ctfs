@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.twitter.com/m0ham3dxx" target="_blank">
+        <img src="./dvdf.png" alt="m0ham3dx" width="200"/> 
+    </a>
+</p>
+
 # Damn Vulnerable Defi - Foundry Edition
 
 The following table is going to contain a detailed writeup of the solutions which are going to be done with [Foundry](https://book.getfoundry.sh/)
