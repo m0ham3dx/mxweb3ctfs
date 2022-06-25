@@ -1,7 +1,7 @@
 # CTFs My Solution Writeups
 
-The following are the solutions to the attempted CTD's.
+Solution for each one of teh CTFS are in their specific directory. The following table will links into the relevant directory
 
-| N   |              Description              | URL |
-| :-- | :-----------------------------------: | --: |
-| 1   | Damn Vulnerable Defi- Foundry Version |
+| N   |              Description              |                   URL |
+| :-- | :-----------------------------------: | --------------------: |
+| 1   | Damn Vulnerable Defi- Foundry Version | [👁️‍🗨️](./DVDFV/sols.md) |
