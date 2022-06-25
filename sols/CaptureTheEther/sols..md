@@ -1,3 +1,10 @@
 # Damn Vulnerable Defi - Foundry Edition
 
-This
+The following table is going to contain a detailed writeup of the solutions which are goint to be done with [Foundry](https://book.getfoundry.sh/)
+
+## Learning Resources for Foundry
+
+1. [Official Manual](https://book.getfoundry.sh/)
+2. [Official Repo](https://github.com/foundry-rs/foundry)
+3. [Awesome Foundry Resources](https://github.com/crisgarner/awesome-foundry)
+4. [My Custom List](https://github.com/SkidsDAO/skidsdao.github.io/issues/1)
