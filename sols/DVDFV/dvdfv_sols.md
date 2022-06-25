@@ -4,6 +4,8 @@
     </a>
 </p>
 
+<img src="./sols/DVDFV/img/dvdf.png">
+
 # Damn Vulnerable Defi - Foundry Edition
 
 The following table is going to contain a detailed writeup of the solutions which are going to be done with [Foundry](https://book.getfoundry.sh/)
