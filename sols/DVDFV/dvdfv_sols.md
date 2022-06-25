@@ -1,6 +1,8 @@
 # Damn Vulnerable Defi - Foundry Edition
 
-The following table is going to contain a detailed writeup of the solutions which are goint to be done with [Foundry](https://book.getfoundry.sh/)
+The following table is going to contain a detailed writeup of the solutions which are going to be done with [Foundry](https://book.getfoundry.sh/)
+
+[Damn Vulnerable Defi - Foundry Edition](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
 
 ## Learning Resources for Foundry
 
