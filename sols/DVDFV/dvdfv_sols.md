@@ -1,6 +1,7 @@
 <p align="center">
     <a href="https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry" target="_blank">
-        <img src="./img/dvdf.png" alt="m0ham3dx" width="400"/> 
+        <img src="./img/dvdf.png" alt="m0ham3dx" width="400"/>
+        <img src="./img/swords.gif" alt="m0ham3dx" width="300"/>
     </a>
 </p>
 
