@@ -10,9 +10,9 @@
 
 1. [Description](#damn-vulnerable-defi---foundry-edition)
 
-1.1 [Foundry Official Resources](#learning-resources-for-foundry)
+   1.1 [Foundry Official Resources](#learning-resources-for-foundry)
 
-2.
+2. [Challenge Solutions](#challenge-solutions)
 
 ---
 
@@ -28,3 +28,5 @@ The following table is going to contain a detailed writeup of the solutions whic
 2. [Official Repo](https://github.com/foundry-rs/foundry)
 3. [Awesome Foundry Resources](https://github.com/crisgarner/awesome-foundry)
 4. [My Custom List](https://github.com/SkidsDAO/skidsdao.github.io/issues/1)
+
+# Challenge Solutions
