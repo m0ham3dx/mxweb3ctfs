@@ -9,9 +9,7 @@
 # TOC
 
 1. [Description](#damn-vulnerable-defi---foundry-edition)
-
    1.1 [Foundry Official Resources](#learning-resources-for-foundry)
-
 2.
 
 ---
