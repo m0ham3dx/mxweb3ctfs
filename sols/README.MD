@@ -1,7 +1,15 @@
-# CTFs My Solution Writeups
+<h2> sols = this directory contains solutions </h2>
 
-Solution for each one of teh CTFS are in their specific directory. The following table will links into the relevant directory
+<h1> TOC </h1>
 
-| N   |              Description              |                         URL |
-| :-- | :-----------------------------------: | --------------------------: |
-| 1   | Damn Vulnerable Defi- Foundry Version | [👁️‍🗨️](./DVDFV/dvdfv_sols.md) |
+1. [Solutions](#solutions)
+
+# Solutions 
+
+The solutions are in sub directories as indicated in the following table 
+
+N | CTF | Location
+|:--:|:--:|:--:|
+
+
+

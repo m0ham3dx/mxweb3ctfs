@@ -18,6 +18,9 @@
 1. [What ?](#what-)
    1. [Repo Dir Strucutre](#repo-dir-strucutre)
 2. [CTFS](#ctfs)
+3. [Solutions](#solutions)
+   1. [Tooling](#tooling)
+4. [Warning](#warning)
 
 # What ?
 
@@ -63,5 +66,17 @@ N | CTF<br>Name| Cheats | Status <br> 👠 = InProgress <br> ✅ = Complete
 4 |  [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022 Version set for 20/8/2022 - 22/8/2022, [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) | [Paradigm CTF 2021 Solutions by cmichel](https://cmichel.io/paradigm-ctf-2021-solutions/) |
 5 | [DeFi Hack](https://www.defihack.xyz/) - fork of Ethernau | | |
 
+# Solutions 
 
+Each one of the CTFS will be located in a separate directory under [sols](./sols/). 
+
+## Tooling 
+
+Unless otherwise indicated the following tool will be used 
+1. [Foundry](https://github.com/foundry-rs/foundry) - Because all the testing can also be done with Soldity 
+   1. [book](https://book.getfoundry.sh/) - Official Manual 
+
+# Warning 
+
+There is no guarantee the solutions are accurate. 
 
