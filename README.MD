@@ -29,6 +29,7 @@ This repo will contain reports on CTF attempts
 ## Repo Dir Strucutre 
 
 1. [sols](./sols/) - Solutions will be located here
+2. [vsxs](./vsxs/) - Important solidity related vscode extensions, these are not available in [OpenVSX](https://open-vsx.org/) - Which is the source from where you can install extensions in [gitpod](https://gitpod.io/) - which is being used for the actual solution work. 
 
 
 # CTFS
