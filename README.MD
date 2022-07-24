@@ -45,23 +45,17 @@ flowchart TD
     click B5 "https://www.defihack.xyz/" "Defi Hack" _blank
 ```
 
-| N   |                                                                                       CTF                                                                                       |                                                                                                            Cheats                                                                                                             |       Solutions        | Status <br> 👠 = InProgress <br> ✅ = Complete |
-| :-- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------: | ---------------------------------------------: |
-| 1   |                                                                [Capture The Ether](https://capturetheether.com/)                                                                |                                                                              [blocksec-ctfs list](https://github.com/blockthreat/blocksec-ctfs)                                                                               |
-| 2   |                                                                [Ethernaut](https://ethernaut.openzeppelin.com/)                                                                 | [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) , [Smart Contract Security Fundamentals- OpenZepplins Ethernaut Challenges - Youtube](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G) |
-| 3   |                                                  [Damn Vulnerable Defi](https://github.com/tinchoabbate/damn-vulnerable-defi)                                                   |                                                                     [Damian Rusinek - (@drdr_zz)](https://github.com/damianrusinek/damn-vulnerable-defi)                                                                      |
-| 4   | [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022 Undergoing Revamp - Currently not playable, [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) |                                                                   [Paradigm CTF 2021 Solutions by cmichel](https://cmichel.io/paradigm-ctf-2021-solutions/)                                                                   |
-| 5   |                                    [Damn Vulnerable Defi- Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)                                    |                                                                        Scattered - [JOP](https://plotchy.substack.com/p/solving-paradigmctfs-jop-?s=r)                                                                        | [🔑](./sols/README.MD) |                                             👠 |
-| 6   |                                                           [DeFi Hack](https://www.defihack.xyz/) - fork of Ethernaut                                                            |
-
 > Reference resource for CTFS - [w3bs3c.com/ctfs](https://www.w3bs3c.com/ctfs)
 
+Following table is in order of priority IMHO 
 
 N | CTF<br>Name| Cheats | Status <br> 👠 = InProgress <br> ✅ = Complete
 |:--:|:--:|:--:|:--:|
-a | asd | asdas | a 
 1 | [Ethernaut](https://ethernaut.openzeppelin.com/) <br> updated UI july 2022 | [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) , [Smart Contract Security Fundamentals- OpenZepplins Ethernaut Challenges - Youtube](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G), [Stermi-Foundry-Ethernaut-Solutions](https://github.com/StErMi/foundry-ethernaut), [goncaloMagalhaes solutions](https://github.com/goncaloMagalhaes/ethernaut-foundry) |
-2 | 
+2 | [Capture The Ether](https://capturetheether.com/) | [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) , [Smart Contract Security Fundamentals- OpenZepplins Ethernaut Challenges - Youtube](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G) | 
+3 | [Damn Vulnerable Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) <br> [Damn Vulnerable Defi- Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) | [Damian Rusinek - (@drdr_zz)](https://github.com/damianrusinek/damn-vulnerable-defi) , DVD Foundry Solutions - Scattered - [JOP](https://plotchy.substack.com/p/solving-paradigmctfs-jop-?s=r) |
+4 |  [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022 Version set for 20/8/2022 - 22/8/2022, [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) | [Paradigm CTF 2021 Solutions by cmichel](https://cmichel.io/paradigm-ctf-2021-solutions/) |
+5 | [DeFi Hack](https://www.defihack.xyz/) - fork of Ethernau | | |
 
 
 
