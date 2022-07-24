@@ -16,11 +16,17 @@
 
 
 1. [What ?](#what-)
+   1. [Repo Dir Strucutre](#repo-dir-strucutre)
 2. [CTFS](#ctfs)
 
 # What ?
 
 This repo will contain reports on CTF attempts
+
+## Repo Dir Strucutre 
+
+1. [sols](./sols/) - Solutions will be located here
+
 
 # CTFS
 

@@ -1,0 +1,59 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - init: echo 'init script' # runs during prebuild
+    command: echo 'start script'
+
+
+#--- mdbook | mdbook-mermaid | mdbook-admonish ---#
+
+  # - name: mdbook 
+  #   init: >
+  #     cargo install mdbook 
+  #   command: mdbook --help
+  
+  # - name: mermaid
+  #   init: >
+  #     cargo install mdbook-mermaid 
+  #     command: mdbook-mermaid --help
+  #   openMode: split-right
+  
+  # - name: admonish 
+  #   init: >
+  #     cargo install mdbook-admonish 
+  #     command: mdbook-mermaid --help 
+  #   openMode: split-right 
+  
+  #--- Foundry related Installs ---#
+
+  - name: Foundry 
+    init: >
+      curl -L https://foundry.paradigm.xyz | bash &&
+      gp sync-done Foundaary
+
+  - name: Foundry 
+    init: >
+      gp sync-await Foundaary &&
+      source ~/.bashrc && 
+      foundryup &&
+      forge --version && cast --version && anvil --version
+    openMode: split-right
+
+# --- Misc --- #
+
+  - name: Install Tree 
+    init: >
+      gp sync-done esso && 
+      sudo apt install tree 
+
+  - name: Install OHMyZsh
+    init: >
+      gp sync-await esso &&
+      sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    openMode: split-right
+
+
+
+# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
+ports:
+  - port: 3000
+    onOpen: open-preview
