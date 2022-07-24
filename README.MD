@@ -57,9 +57,11 @@ flowchart TD
 > Reference resource for CTFS - [w3bs3c.com/ctfs](https://www.w3bs3c.com/ctfs)
 
 
-N | N | N 
-|:--:|:--:|:--:|
-a | asd | asdas
+N | CTF<br>Name| Cheats | Status <br> 👠 = InProgress <br> ✅ = Complete
+|:--:|:--:|:--:|:--:|
+a | asd | asdas | a 
+1 | [Ethernaut](https://ethernaut.openzeppelin.com/) <br> updated UI july 2022 | [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) , [Smart Contract Security Fundamentals- OpenZepplins Ethernaut Challenges - Youtube](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G), [Stermi-Foundry-Ethernaut-Solutions](https://github.com/StErMi/foundry-ethernaut), [goncaloMagalhaes solutions](https://github.com/goncaloMagalhaes/ethernaut-foundry) |
+2 | 
 
 
 
